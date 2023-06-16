@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.aasoft.link.ico",
     "slug": "aasoft-backend",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
-    "time": 547,
-    "timeDay": 575,
-    "timeWeek": 550,
-    "timeMonth": 547,
-    "timeYear": 547,
-    "dailyMinutesDown": {
-      "2023-06-15": 15
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 551,
+    "timeDay": 526,
+    "timeWeek": 555,
+    "timeMonth": 551,
+    "timeYear": 551,
+    "dailyMinutesDown": {}
   },
   {
     "name": "aasoft-client",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 181,
-    "timeDay": 60,
-    "timeWeek": 131,
-    "timeMonth": 181,
-    "timeYear": 181,
+    "time": 178,
+    "timeDay": 154,
+    "timeWeek": 126,
+    "timeMonth": 178,
+    "timeYear": 178,
     "dailyMinutesDown": {}
   },
   {
@@ -43,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fastapi.aasoft.link.ico",
     "slug": "aasoft-fastapi",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
-    "time": 540,
-    "timeDay": 469,
-    "timeWeek": 537,
-    "timeMonth": 540,
-    "timeYear": 540,
-    "dailyMinutesDown": {
-      "2023-06-15": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 550,
+    "timeDay": 573,
+    "timeWeek": 539,
+    "timeMonth": 550,
+    "timeYear": 550,
+    "dailyMinutesDown": {}
   }
 ]
