@@ -4,10 +4,10 @@
     "url": "https://api.aasoft.link",
     "icon": "https://icons.duckduckgo.com/ip3/api.aasoft.link.ico",
     "slug": "aasoft-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 552,
@@ -15,7 +15,9 @@
     "timeWeek": 552,
     "timeMonth": 552,
     "timeYear": 552,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-23": 1
+    }
   },
   {
     "name": "aasoft-client",
@@ -40,7 +42,7 @@
     "url": "https://fastapi.aasoft.link",
     "icon": "https://icons.duckduckgo.com/ip3/fastapi.aasoft.link.ico",
     "slug": "aasoft-fastapi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +53,8 @@
     "timeWeek": 546,
     "timeMonth": 548,
     "timeYear": 548,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-23": 0
+    }
   }
 ]
