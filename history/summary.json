@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.aasoft.link.ico",
     "slug": "aasoft-backend",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.41%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
-    "time": 556,
-    "timeDay": 432,
-    "timeWeek": 589,
-    "timeMonth": 556,
-    "timeYear": 556,
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 554,
+    "timeDay": 524,
+    "timeWeek": 576,
+    "timeMonth": 554,
+    "timeYear": 554,
     "dailyMinutesDown": {
       "2023-06-23": 59
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 166,
-    "timeDay": 156,
-    "timeWeek": 131,
-    "timeMonth": 166,
-    "timeYear": 166,
+    "time": 171,
+    "timeDay": 276,
+    "timeWeek": 157,
+    "timeMonth": 171,
+    "timeYear": 171,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "99.42%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.81%",
-    "time": 546,
-    "timeDay": 444,
-    "timeWeek": 561,
-    "timeMonth": 546,
-    "timeYear": 546,
+    "time": 545,
+    "timeDay": 526,
+    "timeWeek": 551,
+    "timeMonth": 545,
+    "timeYear": 545,
     "dailyMinutesDown": {
       "2023-06-23": 59
     }
