@@ -28,19 +28,19 @@
     "url": "https://aasoft.link",
     "icon": "https://icons.duckduckgo.com/ip3/aasoft.link.ico",
     "slug": "aasoft-client",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 181,
-    "timeDay": 90,
-    "timeWeek": 211,
-    "timeMonth": 176,
-    "timeYear": 181,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 182,
+    "timeDay": 188,
+    "timeWeek": 220,
+    "timeMonth": 180,
+    "timeYear": 182,
     "dailyMinutesDown": {
-      "2023-11-02": 0
+      "2023-11-02": 11
     }
   },
   {
