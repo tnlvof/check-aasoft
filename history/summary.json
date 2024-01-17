@@ -28,18 +28,20 @@
     "url": "https://aasoft.link",
     "icon": "https://icons.duckduckgo.com/ip3/aasoft.link.ico",
     "slug": "aasoft-client",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 183,
-    "timeDay": 65,
-    "timeWeek": 164,
-    "timeMonth": 263,
-    "timeYear": 183,
-    "dailyMinutesDown": {}
+    "time": 187,
+    "timeDay": 654,
+    "timeWeek": 299,
+    "timeMonth": 293,
+    "timeYear": 187,
+    "dailyMinutesDown": {
+      "2024-01-17": 0
+    }
   },
   {
     "name": "aasoft-fastapi",
