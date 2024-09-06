@@ -42,19 +42,19 @@
     "url": "https://fastapi.aasoft.link",
     "icon": "https://icons.duckduckgo.com/ip3/fastapi.aasoft.link.ico",
     "slug": "aasoft-fastapi",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 571,
-    "timeDay": 507,
-    "timeWeek": 561,
-    "timeMonth": 567,
+    "time": 572,
+    "timeDay": 542,
+    "timeWeek": 570,
+    "timeMonth": 570,
     "timeYear": 571,
     "dailyMinutesDown": {
-      "2024-09-06": 0
+      "2024-09-06": 7
     }
   }
 ]
