@@ -7,8 +7,6 @@ sites:
     url: https://api.aasoft.link
   - name: aasoft-client
     url: https://aasoft.link
-  - name: aasoft-fastapi
-    url: https://fastapi.aasoft.link
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
