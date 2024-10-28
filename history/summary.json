@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 661,
-    "timeDay": 501,
-    "timeWeek": 614,
-    "timeMonth": 631,
+    "timeDay": 582,
+    "timeWeek": 620,
+    "timeMonth": 632,
     "timeYear": 584,
     "dailyMinutesDown": {}
   },
@@ -29,37 +29,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 195,
-    "timeDay": 245,
-    "timeWeek": 192,
-    "timeMonth": 193,
+    "timeDay": 203,
+    "timeWeek": 188,
+    "timeMonth": 192,
     "timeYear": 199,
     "dailyMinutesDown": {
       "2024-01-17": 15
-    }
-  },
-  {
-    "name": "aasoft-fastapi",
-    "url": "https://fastapi.aasoft.link",
-    "icon": "https://icons.duckduckgo.com/ip3/fastapi.aasoft.link.ico",
-    "slug": "aasoft-fastapi",
-    "status": "down",
-    "uptime": "98.99%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "31.53%",
-    "uptimeMonth": "84.25%",
-    "uptimeYear": "98.69%",
-    "time": 577,
-    "timeDay": 453,
-    "timeWeek": 610,
-    "timeMonth": 617,
-    "timeYear": 577,
-    "dailyMinutesDown": {
-      "2024-10-28": 16,
-      "2024-10-27": 1440,
-      "2024-10-26": 1440,
-      "2024-10-25": 1440,
-      "2024-10-24": 1440,
-      "2024-10-23": 1125
     }
   }
 ]
