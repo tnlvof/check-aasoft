@@ -4,18 +4,20 @@
     "url": "https://api.aasoft.link",
     "icon": "https://icons.duckduckgo.com/ip3/api.aasoft.link.ico",
     "slug": "aasoft-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 591,
-    "timeDay": 742,
-    "timeWeek": 667,
-    "timeMonth": 639,
+    "time": 592,
+    "timeDay": 709,
+    "timeWeek": 668,
+    "timeMonth": 640,
     "timeYear": 598,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-19": 0
+    }
   },
   {
     "name": "aasoft-client",
