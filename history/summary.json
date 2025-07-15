@@ -24,7 +24,7 @@
     "url": "https://aasoft.link",
     "icon": "https://icons.duckduckgo.com/ip3/aasoft.link.ico",
     "slug": "aasoft-client",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -35,6 +35,8 @@
     "timeWeek": 749,
     "timeMonth": 786,
     "timeYear": 491,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-15": 0
+    }
   }
 ]
