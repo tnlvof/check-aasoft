@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 593,
-    "timeDay": 695,
-    "timeWeek": 614,
-    "timeMonth": 613,
+    "time": 592,
+    "timeDay": 493,
+    "timeWeek": 621,
+    "timeMonth": 612,
     "timeYear": 600,
     "dailyMinutesDown": {
       "2025-06-19": 19
@@ -26,17 +26,15 @@
     "slug": "aasoft-client",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 417,
-    "timeDay": 421,
-    "timeWeek": 715,
-    "timeMonth": 776,
+    "timeDay": 384,
+    "timeWeek": 644,
+    "timeMonth": 761,
     "timeYear": 491,
-    "dailyMinutesDown": {
-      "2025-07-15": 14
-    }
+    "dailyMinutesDown": {}
   }
 ]
